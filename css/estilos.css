@@ -1,0 +1,24 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado de las líneas*/
+    color:greenyellow; /*agrega el color greenyellow al texto*/
+    font-size: 20px; /*aumenta el tamaño de letra del texto*/
+    font-weight: bold; /*agrega negritas al texto*/
+}
+h2{
+    color: gold; /*agrega el color oro a h2*/
+}
+p{
+    font-size: 18px; /*aumenta el tamaño de letra del texto de p*/
+    color: indigo; /*agrega el color indigo al texto de p*/
+}
+h3{
+    color: darkviolet; /*agrega el color darkviolet al texto de p*/
+    text-align: center; /*permite centrar el título de h3*/
+}
+.contenedor p{
+    color: chocolate; /*agrega el color chocolate al texto de la clase contedor de la etiqueta p*/
+}
+.contenedor2 a{
+    color: aquamarine; /*agrega el color aquamarine a los enlaces en la clase contenedor2*/
+    text-decoration: none; /*elimina el subrayado de las líneas*/
+}
